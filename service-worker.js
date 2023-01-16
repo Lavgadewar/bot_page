@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/Lavgadewar/chat_bot_davinci_003_/precache-manifest.c01bf206271955b0701731aae5860ae2.js"
+  "/Lavgadewar/chat_bot_davinci_003_/precache-manifest.7aaef45b51edc0eebcf8724bb537ab5b.js"
 );
 
 workbox.clientsClaim();
